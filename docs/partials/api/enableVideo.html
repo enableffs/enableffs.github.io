@@ -3,20 +3,15 @@
 </div>
 </h1>
 <div><h2 id="description">Description</h2>
-<div class="description"><div class="enablevideo-page"><p>Directive that creates a local video player based on the localmode paramter with the video id provided and the language for the subtitles.</p>
+<div class="description"><div class="enablevideo-page"><p>Example: <enable-video youtube-id="abcdefg"></enable-video></p>
+<p>Directive that creates a local video player based on the localmode paramter with the video id provided and the language for the subtitles.</p>
 </div></div>
 <h2 id="usage">Usage</h2>
 <div class="usage">as element:<pre class="prettyprint linenums">&lt;enable-video
-       youtubeId="{string}"
-       localFilename="{string}"
-       cclang="{string}"
-       localmode="{boolean}"&gt;
+       youtube-id="{string}"&gt;
 &lt;/enable-video&gt;</pre>
 as attribute<pre class="prettyprint linenums">&lt;ANY enable-video
-     youtubeId="{string}"
-     localFilename="{string}"
-     cclang="{string}"
-     localmode="{boolean}"&gt;
+     youtube-id="{string}"&gt;
    ...
 &lt;/ANY&gt;</pre>
 <h3 id="usage_directive-info">Directive info</h3>
@@ -24,8 +19,5 @@ as attribute<pre class="prettyprint linenums">&lt;ANY enable-video
 </ul>
 </div>
 <h4 id="usage_directive-info_parameters">Parameters</h4><table class="variables-matrix table table-bordered table-striped"><thead><tr><th>Param</th><th>Type</th><th>Details</th></tr></thead><tbody><tr><td>youtubeId</td><td><a href="" class="label type-hint type-hint-string">string</a></td><td><div class="enablevideo-page"><p>The id of the youtube video. This will bring up the youtube video player , as well as the CC attached to that video</p>
-</div></td></tr><tr><td>localFilename</td><td><a href="" class="label type-hint type-hint-string">string</a></td><td><div class="enablevideo-page"><p>The id of the local video file. This id will be used for the poster image and the subtitles</p>
-</div></td></tr><tr><td>cclang</td><td><a href="" class="label type-hint type-hint-string">string</a></td><td><div class="enablevideo-page"><p>The current language code. This will load the subtitles in the current portal language.</p>
-</div></td></tr><tr><td>localmode</td><td><a href="" class="label type-hint type-hint-boolean">boolean</a></td><td><div class="enablevideo-page"><p>The mode that needs to be inserted in the page, true =&gt; local videos, false =&gt; youtube videos</p>
 </div></td></tr></tbody></table></div>
 </div>
