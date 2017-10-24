@@ -32,24 +32,6 @@ NG_DOCS={
     },
     {
       "section": "api",
-      "id": "DualCtrl",
-      "shortName": "DualCtrl",
-      "type": "controller",
-      "moduleName": "DualCtrl",
-      "shortDescription": "Controller",
-      "keywords": "api controller dualctrl"
-    },
-    {
-      "section": "api",
-      "id": "DualCtrl.gotoAnchor",
-      "shortName": "DualCtrl.gotoAnchor",
-      "type": "function",
-      "moduleName": "DualCtrl",
-      "shortDescription": "Function that redirects the browser to the provided path",
-      "keywords": "anchor api browser dualctrl function gotoanchor newhash path provided redirect redirects"
-    },
-    {
-      "section": "api",
       "id": "enable-file-link",
       "shortName": "enable-file-link",
       "type": "directive",
@@ -65,6 +47,15 @@ NG_DOCS={
       "moduleName": "enable-link",
       "shortDescription": "Add this attribute to improve on the &#39;&#39; link element showing an external link icon.",
       "keywords": "add api attribute directive element enable-link external href icon improve link showing"
+    },
+    {
+      "section": "api",
+      "id": "enable-menu-link",
+      "shortName": "enable-menu-link",
+      "type": "directive",
+      "moduleName": "enable-menu-link",
+      "shortDescription": "Add this attribute to improve on the &#39;&#39; link element showing an external link icon.",
+      "keywords": "add api attribute directive element enable-menu-link external href icon improve link showing"
     },
     {
       "section": "api",
@@ -162,35 +153,8 @@ NG_DOCS={
       "shortName": "enableVideo",
       "type": "directive",
       "moduleName": "enableVideo",
-      "shortDescription": "Directive that creates a local video player based on the localmode paramter with the video id provided and the language for the subtitles.",
-      "keywords": "ae api attached based bring cc cclang code creates current directive enablevideo false file image inserted language load local localmode mode paramter player portal poster provided subtitles true video videos localFilename youtubeId youtube"
-    },
-    {
-      "section": "api",
-      "id": "HearingCtrl",
-      "shortName": "HearingCtrl",
-      "type": "controller",
-      "moduleName": "HearingCtrl",
-      "shortDescription": "Controller",
-      "keywords": "api controller hearingctrl"
-    },
-    {
-      "section": "api",
-      "id": "HearingCtrl.gotoAnchor",
-      "shortName": "HearingCtrl.gotoAnchor",
-      "type": "function",
-      "moduleName": "HearingCtrl",
-      "shortDescription": "Function that redirects the browser to the provided path",
-      "keywords": "anchor api browser function gotoanchor hearingctrl newhash path provided redirect redirects"
-    },
-    {
-      "section": "api",
-      "id": "HomeCtrl",
-      "shortName": "HomeCtrl",
-      "type": "controller",
-      "moduleName": "HomeCtrl",
-      "shortDescription": "Controller",
-      "keywords": "api controller homectrl"
+      "shortDescription": "Example: ",
+      "keywords": "abcdefg ae api attached based bring cc creates directive enablevideo example language local localmode paramter player provided subtitles true video youtube youtube-id youtubeid"
     },
     {
       "section": "api",
@@ -227,15 +191,6 @@ NG_DOCS={
       "moduleName": "MenuCtrl",
       "shortDescription": "Returns true if the current language matches the passed param, if not returns false",
       "keywords": "api current en false fr function getlangbuttonstate lang language matches menuctrl param passed returns true"
-    },
-    {
-      "section": "api",
-      "id": "MenuCtrl.goToSection",
-      "shortName": "MenuCtrl.goToSection",
-      "type": "function",
-      "moduleName": "MenuCtrl",
-      "shortDescription": "Function that redirects the location based on provided path",
-      "keywords": "api based function gotosection location menuctrl path provided redirection redirects"
     },
     {
       "section": "api",
@@ -329,39 +284,12 @@ NG_DOCS={
     },
     {
       "section": "api",
-      "id": "SensoryCtrl",
-      "shortName": "SensoryCtrl",
-      "type": "controller",
-      "moduleName": "SensoryCtrl",
-      "shortDescription": "Controller",
-      "keywords": "api controller sensoryctrl"
-    },
-    {
-      "section": "api",
       "id": "SensoryCtrl.gotoAnchor",
       "shortName": "SensoryCtrl.gotoAnchor",
       "type": "function",
       "moduleName": "SensoryCtrl",
       "shortDescription": "Function that redirects the browser to the provided path",
       "keywords": "anchor api browser function gotoanchor newhash path provided redirect redirects sensoryctrl"
-    },
-    {
-      "section": "api",
-      "id": "VisionCtrl",
-      "shortName": "VisionCtrl",
-      "type": "controller",
-      "moduleName": "VisionCtrl",
-      "shortDescription": "Controller",
-      "keywords": "api controller visionctrl"
-    },
-    {
-      "section": "api",
-      "id": "VisionCtrl.gotoAnchor",
-      "shortName": "VisionCtrl.gotoAnchor",
-      "type": "function",
-      "moduleName": "VisionCtrl",
-      "shortDescription": "Function that redirects the browser to the provided path",
-      "keywords": "anchor api browser function gotoanchor newhash path provided redirect redirects visionctrl"
     }
   ],
   "apis": {
