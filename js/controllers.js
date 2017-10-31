@@ -144,6 +144,7 @@ enableAppControllers.controller("MainCtrl", ['$q', '$scope', '$window', '$rootSc
          */
         $scope.closeMenu = function() {
             $scope.menuOpen = false;
+            angular.element("#container")[0].scrollTop=0
             if ($scope.windowWidth < 600) {
                 $scope.showHamburger = true;
             }
