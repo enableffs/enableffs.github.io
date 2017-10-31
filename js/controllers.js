@@ -10,7 +10,7 @@ var enableAppControllers = angular.module('EnableAppControllers', []);
  * Controller for the default page: index.html
  *
  */
-enableAppControllers.controller("MainCtrl", ['$q', '$scope', '$window', '$rootScope', '$location', '$translate', '$route', '$http', '$routeParams', function ($q, $scope, $window, $rootScope, $location, $translate, $route, $http, $routeParams) {
+enableAppControllers.controller("MainCtrl", ['$q', '$scope', '$window', '$rootScope', '$location', '$translate', '$route', '$http', '$routeParams','$anchorScroll', function ($q, $scope, $window, $rootScope, $location, $translate, $route, $http, $routeParams) {
         console.log('--> menu started');
         console.log('--> default language: ' + localStorage.lang);
 
@@ -142,13 +142,35 @@ enableAppControllers.controller("MainCtrl", ['$q', '$scope', '$window', '$rootSc
          * Closes the left sidebar menu
          *
          */
-        $scope.closeMenu = function() {
+        $scope.closeMenu = function(x) {
             $scope.menuOpen = false;
-            angular.element("#container")[0].scrollTop=0
+
             if ($scope.windowWidth < 600) {
                 $scope.showHamburger = true;
             }
+            var newHash = x;
+            if ($location.hash() !== newHash) {
+                // set the $location.hash to `newHash` and
+                // $anchorScroll will automatically scroll to it
+                $location.hash('anchor');
+            } else {
+                // call $anchorScroll() explicitly,
+                // since $location.hash hasn't changed
+                $anchorScroll();
+            }
         };
+    $scope.gotoAnchor = function(x) {
+        var newHash = x;
+        if ($location.hash() !== newHash) {
+            // set the $location.hash to `newHash` and
+            // $anchorScroll will automatically scroll to it
+            $location.hash('anchor');
+        } else {
+            // call $anchorScroll() explicitly,
+            // since $location.hash hasn't changed
+            $anchorScroll();
+        }
+    };
 
         /**
          * @ngdoc function
@@ -433,7 +455,7 @@ enableAppControllers.controller("SearchCtrl", ['$scope', '$rootScope', '$locatio
          * @param {string} path the path to the result item
          */
         $scope.getFormattedLink = function(path) {
-            return path.replace('content/', '').replace('_en.html', '').replace('_fr.html', '');
+            return path.replace('content/', '').replace('_en.html', '#top').replace('_fr.html', '#top');
         };
 
         /**
