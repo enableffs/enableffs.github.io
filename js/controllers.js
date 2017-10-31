@@ -142,29 +142,20 @@ enableAppControllers.controller("MainCtrl", ['$q', '$scope', '$window', '$rootSc
          * Closes the left sidebar menu
          *
          */
-        $scope.closeMenu = function(x) {
+        $scope.closeMenu = function() {
             $scope.menuOpen = false;
 
             if ($scope.windowWidth < 600) {
                 $scope.showHamburger = true;
             }
-            var newHash = x;
-            if ($location.hash() !== newHash) {
-                // set the $location.hash to `newHash` and
-                // $anchorScroll will automatically scroll to it
-                $location.hash('anchor');
-            } else {
-                // call $anchorScroll() explicitly,
-                // since $location.hash hasn't changed
-                $anchorScroll();
-            }
+
         };
     $scope.gotoAnchor = function(x) {
         var newHash = x;
         if ($location.hash() !== newHash) {
             // set the $location.hash to `newHash` and
             // $anchorScroll will automatically scroll to it
-            $location.hash('anchor');
+            $location.hash('top');
         } else {
             // call $anchorScroll() explicitly,
             // since $location.hash hasn't changed
