@@ -2,26 +2,26 @@
   {
     "src": "trejenter1.jpg",
     "text_en": "We are friends.",
-    "text_fr": "Image 1"
+    "text_sw": "Sisi ni marafiki."
   },
   {
     "src": "trejenter2.jpg",
     "text_en": "We spend as much time as possible together.",
-    "text_fr": "Du texte en francais"
+    "text_sw": "Tunatumia muda mwingi tukiwa pamoja kadiri iwezekanavyo."
   },
   {
     "src": "trejenter3.jpg",
     "text_en": "We play games or just relax.",
-    "text_fr": "Image 3"
+    "text_sw": "Tunacheza michezo au tunapumzika"
   },
   {
     "src": "gladgutt1.jpg",
     "text_en": "It is fun to be together with friends",
-    "text_fr": "Image 4"
+    "text_sw": "Ni furaha kuwa pamoja na marafiki"
   },
    {
     "src": "gladgutt2.jpg",
     "text_en": "Being together makes me happy!",
-    "text_fr": "Image 4"
+    "text_sw": "Kuwa pamoja kunanifanya niwe na furaha!"
   }
 ]
