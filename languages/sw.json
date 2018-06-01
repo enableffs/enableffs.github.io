@@ -91,5 +91,10 @@
   "SPECIAL_DESCRIPTION_AREA": "Sehemu ya taarifa iliyoangazwa",
   "QUESTION_AREA": "Sehemu ya maswali iliyoangazwa",
   "QUOTATION_AREA": "Sehemu ya nukuu",
-  "QUIZ_START_BUTTON": "Tandika"
+  "QUIZ_START_BUTTON": "ANZA",
+  "QUIZ_NEXT_BUTTON": "ENDELEA",
+  "QUIZ_DONE_BUTTON": "KAMILIKA",
+  "QUIZ_TRYAGAIN_BUTTON": "JARIBU TENA!",
+  "INCORRECT_ANSWERS_FAILED": "Umekosa"
+
 }
