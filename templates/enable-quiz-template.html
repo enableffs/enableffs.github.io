@@ -48,8 +48,8 @@
             </form>
         </div>
         <div>
-            <button ng-show="state == 'result' && pageIndex<totalPages-1" ng-click="next()" class="quizButton">NEXT</button>
-            <button ng-show="state == 'result' && pageIndex==totalPages-1" ng-click="next()" class="quizButton">DONE</button>
+            <button ng-show="state == 'result' && pageIndex<totalPages-1" ng-click="next()" class="quizButton">{{ 'QUIZ_NEXT_BUTTON' | translate }}</button>
+            <button ng-show="state == 'result' && pageIndex==totalPages-1" ng-click="next()" class="quizButton">{{ 'QUIZ_DONE_BUTTON' | translate }}</button>
         </div>
         <div ng-show="state == 'result'" ng-repeat="a in currentQuestion.answers" aria-hidden="true">
             <p class="quizFeedback" ng-show="a.correct == currentData[$index]" ng-bind-html="trustResource(a.correct_feedback)"></p>
@@ -64,14 +64,14 @@
             <p ng-show="percentScore < passPercent" ng-bind-html="trustResource(summaryfail)"></p>
             <div ng-show="(incorrectAnswers.length > 0)">
                 <br>
-                <h5>{{percentScore >= passPercent ? 'INCORRECT_ANSWERS_PASSED' : 'INCORRECT_ANSWERS_FAILED'}}:</h5>
+                <h5>{{percentScore >= passPercent ? 'INCORRECT_ANSWERS_PASSED' : 'INCORRECT_ANSWERS_FAILED'| translate}}:</h5>
                 <ul>
                     <li ng-repeat="i in incorrectAnswers">{{i}}</li>
                 </ul>
             </div>
         </div>
         <div>
-            <button ng-show="(percentScore < passPercent)" ng-click="start()" class="md-raised md-primary md-cornered hmsbtn">TRY AGAIN!</button>
+            <button ng-show="(percentScore < passPercent)" ng-click="start()" class="md-raised md-primary md-cornered hmsbtn">{{ 'QUIZ_TRYAGAIN_BUTTON' | translate }}</button>
         </div>
     </div>
 
