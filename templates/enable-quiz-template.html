@@ -22,7 +22,7 @@
             </a>
         </div>
         <div ng-show="!showLanguageSwitch && !showLoginButton">
-            <button ng-click="start()" class="quizButton">Begin</button>
+            <button ng-click="start()" class="quizButton">{{ 'QUIZ_START_BUTTON' | translate }}</button>
             <a ng-show="showAlreadyPassedDownloadButton" target="_self" ng-href="{{diploma_link}}" >
                 <button class="md-raised md-primary md-cornered hmsbtn">Download Diploma</button>
             </a>
