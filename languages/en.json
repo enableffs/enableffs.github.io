@@ -92,5 +92,11 @@
   "QUESTION_AREA": "Highlighted question area",
   "QUOTATION_AREA": "Quotation area",
   "NAVIGATION": "Select your topic of interest here",
-  "MENU_TOGGLES_OPEN_CLOSED": "This item toggles open or closed"
+  "MENU_TOGGLES_OPEN_CLOSED": "This item toggles open or closed",
+  "QUIZ_START_BUTTON": "BEGIN",
+  "QUIZ_NEXT_BUTTON": "NEXT",
+  "QUIZ_DONE_BUTTON": "DONE",
+  "QUIZ_TRYAGAIN_BUTTON": "TRY AGAIN!",
+  "INCORRECT_ANSWERS_FAILED": "You have failed"
+
 }

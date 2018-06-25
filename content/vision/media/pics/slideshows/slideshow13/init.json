@@ -2,41 +2,41 @@
   {
     "src": "bilde1.jpg",
     "text_en": "Everyone likes to hang around together with friends.",
-    "text_fr": "Image 1"
+    "text_sw": "Kila mtu anapenda kufurahi akiwa pamoja na marafiki zake."
   },
   {
     "src": "bilde2.jpg",
     "text_en": "",
-    "text_fr": "Du texte en francais"
+    "text_sw": ""
   },
   {
     "src": "bilde3.jpg",
     "text_en": "",
-    "text_fr": "Image 3"
+    "text_sw": ""
   },
    {
     "src": "bilde4.jpg",
     "text_en": "",
-    "text_fr": "Image 3"
+    "text_sw": ""
   },
    {
     "src": "bilde5.jpg",
     "text_en": "",
-    "text_fr": "Image 3"
+    "text_sw": ""
   },
   {
     "src": "bilde6.jpg",
     "text_en": "",
-    "text_fr": "Image 4"
+    "text_sw": ""
   },
   {
     "src": "bilde7.jpg",
     "text_en": "",
-    "text_fr": "Image 4"
+    "text_sw": ""
   },
   {
   "src": "bilde8.jpg",
   "text_en": "",
-  "text_fr": "Image 4"
+  "text_sw": ""
 }
 ]

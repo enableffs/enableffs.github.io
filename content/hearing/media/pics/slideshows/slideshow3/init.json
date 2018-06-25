@@ -2,32 +2,32 @@
   {
     "src": "sign1.jpg",
     "text_en": "If a child is observed when playing with other children, the way of communication can reveal hearing impairments.",
-    "text_fr": "Image 1"
+    "text_sw": "Kama mtoto anachunguzwa anapo cheza na watoto wengine, njia ya kuwasiliana na inaweza kudhihirisha udhaifu katika uwezo wa kusikia. "
   },
   {
     "src": "sign2.jpg",
     "text_en": "The childs gestures can detect hearing loss.",
-    "text_fr": "Du texte en francais"
+    "text_sw": "Ishara kwa kutumia viungo vya mwili huweza kuashiria matatizo ya usikivu."
   },
   {
     "src": "sign3.jpg",
     "text_en": "Visual representations of objects can make the learning of signs easier.",
-    "text_fr": "Image 3"
+    "text_sw": "Matumizi ya vitu vinavyooneka kwenye ufundishaji yanaweza kufanya ujifunzaji wa alama kuwa mwepesi. "
   },
   {
     "src": "sign4.jpg",
     "text_en": "Good friends make communication easier.",
-    "text_fr": "Image 4"
+    "text_sw": "Marafiki wema hufanya mawasiliano kuwa rahisi"
   },
    {
     "src": "sign5.jpg",
     "text_en": "Having classmates who understand sign language is crusial.",
-    "text_fr": "Image 4"
+    "text_sw": "Kuwa na wanafunzi wenza wanaofahamu lugha ya alama ni muhimu."
   },
   {
     "src": "sign6.jpg",
     "text_en": "The classmate can then respond adequately. ",
-    "text_fr": "Image 4"
+    "text_sw": "Mwanafunzi mwenza huweza kujibu kwa kiwango cha kutosha."
   }
-  
+
 ]
