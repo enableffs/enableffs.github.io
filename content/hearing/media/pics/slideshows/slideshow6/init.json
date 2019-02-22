@@ -1,8 +1,8 @@
 [
   {
     "src": "a.jpg",
-    "text_en": "A",
-    "text_sw": "A"
+    "text_en": "Z",
+    "text_sw": "Z"
   },
   {
     "src": "k.jpg",
@@ -11,12 +11,12 @@
   },
   {
     "src": "y.jpg",
-    "text_en": "Y",
-    "text_sw": "Y"
+    "text_en": "A",
+    "text_sw": "A"
   },
   {
     "src": "z.jpg",
-    "text_en": "Z",
-    "text_sw": "Z"
+    "text_en": "Y",
+    "text_sw": "Y"
   }
 ]
