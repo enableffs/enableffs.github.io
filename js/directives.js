@@ -504,7 +504,7 @@ enableAppDirectives.directive("enableQuiz", ['$http', '$route', '$timeout', '$sc
                     scope.summaryfail = quiz.summaryfail;
                     scope.image_url = quiz.image_url;
                     scope.currentQuestion = {};
-                    scope.data = { answers: [], student_id: '', score: 0 };
+                    scope.data = { answers: [], learner _id: '', score: 0 };
                     scope.filePath = "img/quiz/";
                 };
                 scope.check = function(index) {         // Update UI elements after selection
