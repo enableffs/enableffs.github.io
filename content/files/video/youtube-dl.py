@@ -48,7 +48,7 @@ videos.append(Video("UwRZgrTeT74", "hearing"))      # Deaf preschool children le
 videos.append(Video("sEFig4BJOI8", "vision"))       # Blind children learn to type on Perkins braille-writer
 videos.append(Video("TZZOvuGZ17w", "vision"))       # From written text to Braille
 videos.append(Video("65_pQQpnI24", "vision"))       # Inclusion at Bishop Willis Demonstration School in Iganga, Uganda
-videos.append(Video("5S8MYNvfeWc", "vision"))       # Blind student moving around at the campus with white cane
+videos.append(Video("5S8MYNvfeWc", "vision"))       # Blind learner  moving around at the campus with white cane
 videos.append(Video("GkaNi4MIPuQ", "vision"))       # Use of concrete materials in the learning process
 videos.append(Video("1W-B0rqiEGk", "vision"))       # Blind  learners without white canes
 videos.append(Video("3E7Sam17rTs", "vision"))       # Blind  learners moving around
