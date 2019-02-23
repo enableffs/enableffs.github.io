@@ -1,0 +1,155 @@
+{
+  "title": "Unaifahamu hii alama?",
+  "intro": "Jaribu kuelewa hizi alama zina maana gani!",
+  "summarypass": "Kazi nzuri!",
+  "summaryfail": "Angalia hizi alama na ujaribu tena.",
+  "type": "quiz",
+  "language": "sw",
+  "exam_type": "quizpoll",
+  "module_description": "",
+  "ref": "",
+  "questions": [
+    {
+      "type": "radio",
+      "text": "",
+      "image_url": "mothersign.jpg",
+      "answers": [
+        {
+          "text": "Baba",
+          "correct_feedback": "",
+          "incorrect_feedback": "Umekosa. Alama hii ina maana ya mama.",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": "Sister ",
+          "correct_feedback": "",
+          "incorrect_feedback": " Umekosa. Alama hii ina maana ya mama. ",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": " Mama ",
+          "correct_feedback": "Umepata",
+          "incorrect_feedback": "",
+          "image_url": "",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "type": "radio",
+      "text": "",
+      "image_url": "wellsign.jpg",
+      "answers": [
+        {
+          "text": "Huzuni",
+          "correct_feedback": "",
+          "incorrect_feedback": "Umekosa. Jibu ni : Vizuri",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": "Vizuri",
+          "correct_feedback": " Sahihi ",
+          "incorrect_feedback": "",
+          "image_url": "",
+          "correct": true
+        },
+        {
+          "text": "mgonjwa",
+          "correct_feedback": "",
+          "incorrect_feedback": "Umekosa. Jawabu ni: Mzima",
+          "image_url": "",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "type": "radio",
+      "text": "",
+      "image_url": "welcomesign.jpg",
+      "answers": [
+        {
+          "text": "Karibu",
+          "correct_feedback": "Sahihi",
+          "incorrect_feedback": "",
+          "image_url": "",
+          "correct": true
+        },
+        {
+          "text": "Vizuri",
+          "correct_feedback": "",
+          "incorrect_feedback": "Umekosa. Jibu sahihi ni: Karibu",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": "Vibaya",
+          "correct_feedback": "",
+          "incorrect_feedback": " Umekosa. Jibu sahihi ni: Karibu ",
+          "image_url": "",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "type": "radio",
+      "text": "",
+      "image_url": "fathersign.jpg",
+      "answers": [
+        {
+          "text": "Baba",
+          "correct_feedback": "Sahihi",
+          "incorrect_feedback": "",
+          "image_url": "",
+          "correct": true
+        },
+        {
+          "text": "Mama",
+          "correct_feedback": "",
+          "incorrect_feedback": " Umekosa. Jibu sahihi ni: Baba ",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": "Kaka",
+          "correct_feedback": "",
+          "incorrect_feedback": " Umekosa. Jibu sahihi ni: Baba ",
+          "image_url": "",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "type": "radio",
+      "text": "",
+      "image_url": "sadsign.jpg",
+      "answers": [
+        {
+          "text": "Lia",
+          "correct_feedback": "",
+          "incorrect_feedback": " Umekosa. Jibu sahihi ni: Huzuni ",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": "Good",
+          "correct_feedback": "",
+          "incorrect_feedback": " Umekosa. Jibu sahihi ni: Huzuni ",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": "Huzuni",
+          "correct_feedback": "Sahihi",
+          "incorrect_feedback": "",
+          "image_url": "",
+          "correct": true
+        }
+      ]
+    }
+
+
+  ]
+}
