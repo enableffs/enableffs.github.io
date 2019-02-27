@@ -1,40 +1,155 @@
 {
-  "title": "What is your opinion about education for pupils with disabilities?",
-  "intro": "Please tick the box that best describes your agreement or disagreement with the following statements. There are no correct or
-                    wrong answers. The best answers are those that honestly represent your feeling",
-  "summarypass" : "There are both advantages and disadvantages when it comes to inclusive schools. It’s not always easy to take a clear position
-                            on these matters. What is important is to have an open mind and a good attitude.",
-  "summaryfail" : "There are both advantages and disadvantages when it comes to inclusive schools. It’s not always easy to take a clear position
-                  on these matters. What is important is to have an open mind and a good attitude.",
-  "type" : "quiz",
-  "language" : "nn",
-  "exam_type" : "quizpoll",
-  "module_description" : "",
-  "ref" : "",
+  "title": "Unaifahamu hii alama?",
+  "intro": "Jaribu kuelewa hizi alama zina maana gani!",
+  "summarypass": "Kazi nzuri!",
+  "summaryfail": "Angalia hizi alama na ujaribu tena.",
+  "type": "quiz",
+  "language": "sw",
+  "exam_type": "quizpoll",
+  "module_description": "",
+  "ref": "",
   "questions": [
     {
       "type": "radio",
-      "text": "The needs of pupils with disabilities can best be served through special, separate classes.",
-      "image_url": "",
+      "text": "",
+      "image_url": "mothersign.jpg",
       "answers": [
         {
-          "text": "Agree",
-          "correct_feedback": "
-
-          One can well imagine that children with special needs are better served in special classes, where they receive special training according to their own needs.<br>On the other hand it’s important for children with disabilities to be integrated in normal classrooms for their social life.  Also it can be beneficial for other children to learn acceptance and tolerance for all human beings.<br>In other words, when children are integrated in normal classes they get friends and a social life, though it is hard for them to learn all they need to learn in a group of many children.<br>How is it possible to solve both these needs?",
-          "incorrect_feedback": "",
+          "text": "Baba",
+          "correct_feedback": "",
+          "incorrect_feedback": "Umekosa. Alama hii ina maana ya mama.",
           "image_url": "",
-          "correct" : true
+          "correct": false
         },
         {
-          "text": "Disagree",
-          "correct_feedback": "One can well imagine that children with special needs are better served in special classes, where they receive special training according to their own needs.<br>On the other hand it’s important for children with disabilities to be integrated in normal classrooms for their social life.  Also it can be beneficial for other children to learn acceptance and tolerance for all human beings.<br>In other words, when children are integrated in normal classes they get friends and a social life, though it is hard for them to learn all they need to learn in a group of many children.<br>How is it possible to solve both these needs?",
+          "text": "Sister ",
+          "correct_feedback": "",
+          "incorrect_feedback": " Umekosa. Alama hii ina maana ya mama. ",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": " Mama ",
+          "correct_feedback": "Umepata",
           "incorrect_feedback": "",
           "image_url": "",
-          "correct" : true
+          "correct": true
+        }
+      ]
+    },
+    {
+      "type": "radio",
+      "text": "",
+      "image_url": "wellsign.jpg",
+      "answers": [
+        {
+          "text": "Huzuni",
+          "correct_feedback": "",
+          "incorrect_feedback": "Umekosa. Jibu ni : Vizuri",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": "Vizuri",
+          "correct_feedback": " Sahihi ",
+          "incorrect_feedback": "",
+          "image_url": "",
+          "correct": true
+        },
+        {
+          "text": "mgonjwa",
+          "correct_feedback": "",
+          "incorrect_feedback": "Umekosa. Jawabu ni: Mzima",
+          "image_url": "",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "type": "radio",
+      "text": "",
+      "image_url": "welcomesign.jpg",
+      "answers": [
+        {
+          "text": "Karibu",
+          "correct_feedback": "Sahihi",
+          "incorrect_feedback": "",
+          "image_url": "",
+          "correct": true
+        },
+        {
+          "text": "Vizuri",
+          "correct_feedback": "",
+          "incorrect_feedback": "Umekosa. Jibu sahihi ni: Karibu",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": "Vibaya",
+          "correct_feedback": "",
+          "incorrect_feedback": " Umekosa. Jibu sahihi ni: Karibu ",
+          "image_url": "",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "type": "radio",
+      "text": "",
+      "image_url": "fathersign.jpg",
+      "answers": [
+        {
+          "text": "Baba",
+          "correct_feedback": "Sahihi",
+          "incorrect_feedback": "",
+          "image_url": "",
+          "correct": true
+        },
+        {
+          "text": "Mama",
+          "correct_feedback": "",
+          "incorrect_feedback": " Umekosa. Jibu sahihi ni: Baba ",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": "Kaka",
+          "correct_feedback": "",
+          "incorrect_feedback": " Umekosa. Jibu sahihi ni: Baba ",
+          "image_url": "",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "type": "radio",
+      "text": "",
+      "image_url": "sadsign.jpg",
+      "answers": [
+        {
+          "text": "Lia",
+          "correct_feedback": "",
+          "incorrect_feedback": " Umekosa. Jibu sahihi ni: Huzuni ",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": "Vizuri",
+          "correct_feedback": "",
+          "incorrect_feedback": " Umekosa. Jibu sahihi ni: Huzuni ",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": "Huzuni",
+          "correct_feedback": "Sahihi",
+          "incorrect_feedback": "",
+          "image_url": "",
+          "correct": true
         }
       ]
     }
+
 
   ]
 }
