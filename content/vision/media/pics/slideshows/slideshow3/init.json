@@ -1,8 +1,8 @@
 [
   {
     "src": "bilde1.jpg",
-    "text_en": "Before learning Braille, the children have to train the tactile senses.",
-    "text_sw": "Kabla ya kujifunza nukta nundu, watoto wanapaswa kujifunza mtembeo wa mikono wa kugusa."
+    "text_en": "Before learning Braille, the children have to be trained the tactile senses.",
+    "text_sw": "Kabla ya kujifunza nuktanundu, watoto wanapaswa kujifunza mtembeo wa mikono wa kugusa."
   },
   {
     "src": "bilde2.jpg",
@@ -32,6 +32,6 @@
   {
     "src": "bilde7.jpg",
     "text_en": "It´s nice to have a peer to tell what is written on the blackboard.",
-    "text_sw": "Ni vizuri kuwa na rafiki rika akueleze kilichoandikwa ubaoni."
+    "text_sw": "Ni vizuri kuwa na rafiki akueleze kilichoandikwa ubaoni."
   }
 ]
