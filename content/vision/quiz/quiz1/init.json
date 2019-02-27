@@ -16,7 +16,12 @@
       "answers": [
         {
           "text": "Agree",
-          "correct_feedback": "One can well imagine that children with special needs are better served in special classes, where they receive special training according to their own needs.<br>On the other hand it’s important for children with disabilities to be integrated in normal classrooms for their social life.  Also it can be beneficial for other children to learn acceptance and tolerance for all human beings.<br>In other words, when children are integrated in normal classes they get friends and a social life, though it is hard for them to learn all they need to learn in a group of many children.<br>How is it possible to solve both these needs?",
+          "correct_feedback": "Mtu anaweza kufikiria kwamba watoto wenye mahitaji maalum wanahudumiwa vizuri katika madarasa maalum, ambapo hupokea mafunzo maalum kulingana na mahitaji yao wenyewe.
+Kwa upande mwingine ni muhimu kwa watoto wenye ulemavu kuunganishwa katika madarasa ya kawaida kwa maisha yao ya kijamii. Pia inaweza kuwa na manufaa kwa watoto wengine kujifunza kukubali na kuvumiliana kwa wanadamu wote.
+Kwa maneno mengine, wakati watoto wameunganishwa katika madarasa ya kawaida wanapata marafiki na maisha ya kijamii, ingawa ni vigumu kwao kujifunza wote wanaohitaji kujifunza katika kikundi cha watoto wengi.
+Je! Inawezekanaje kutatua mahitaji haya yote?
+
+          One can well imagine that children with special needs are better served in special classes, where they receive special training according to their own needs.<br>On the other hand it’s important for children with disabilities to be integrated in normal classrooms for their social life.  Also it can be beneficial for other children to learn acceptance and tolerance for all human beings.<br>In other words, when children are integrated in normal classes they get friends and a social life, though it is hard for them to learn all they need to learn in a group of many children.<br>How is it possible to solve both these needs?",
           "incorrect_feedback": "",
           "image_url": "",
           "correct" : true
@@ -37,14 +42,14 @@
       "answers": [
         {
           "text": "Agree",
-          "correct_feedback": "In a classroom with many pupils it is always several needs to consider at all times. All children are different and they all require patience from the teacher. But of course if you have child with a disability who requires a lot more attention from the teacher than every one else, it could be challenging. But does children with disabilities always have a different behaviour than other children? And is this necessarily a worse behaviour?<br>Couldn’t the behaviour from children with disabilities affect the classroom just as much as any other child?",
+          "correct_feedback": "In a classroom with many pupils there are always several needs to consider at all times. All children are different and they all require patience from the teacher. But of course if you have a child with a disability who requires a lot more attention from the teacher than every one else, it could be challenging. But do children with disabilities always have a different behaviour than other children? And is this necessarily a bad behaviour?<br>Couldn’t the behaviour from children with disabilities affect the classroom just as much as any other child?",
           "incorrect_feedback": "",
           "image_url": "",
           "correct" : true
         },
         {
           "text": "Disagree",
-          "correct_feedback": "In a classroom with many pupils it is always several needs to consider at all times. All children are different and they all require patience from the teacher. But of course if you have child with a disability who requires a lot more attention from the teacher than every one else, it could be challenging. But does children with disabilities always have a different behaviour than other children? And is this necessarily a worse behaviour?<br>Couldn’t the behaviour from children with disabilities affect the classroom just as much as any other child?",
+          "correct_feedback": "In a classroom with many pupils there are always several needs to consider at all times. All children are different and they all require patience from the teacher. But of course if you have a child with a disability who requires a lot more attention from the teacher than every one else, it could be challenging. But do children with disabilities always have a different behaviour than other children? And is this necessarily a bad behaviour?<br>Couldn’t the behaviour from children with disabilities affect the classroom just as much as any other child?",
           "incorrect_feedback": "",
           "image_url": "",
           "correct" : true
