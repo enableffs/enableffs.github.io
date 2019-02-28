@@ -1,11 +1,8 @@
 {
   "title": "Una maoni gani kuhusu elimu ya watoto wenye ulemavu?",
-  "intro": "Tafadhali weka pato kwenye boksi linalonesha kwamba unakubaliana ama hukubaliani na kauli zifuatazo.
-  Hakuna majibu sahihi wala yasiyo sahihi. Majibu mazuri ni yale yanayowakilisha maoni yako halisi.",
-  "summarypass" : "Kuna faida na hasara linapokuja suala la shule jumuishi. Si rahisi mara zote kuwa na musimama maridhawa
-  kwenye masuala haya. Jambo muhimu zaidi ni kuwa na utayari wa kuitazamo pamoja mtazamo chanya.",
-  "summaryfail" : "Kuna faida na hasara linapokuja suala la shule jumuishi. Si rahisi mara zote kuwa na musimama maridhawa
-  kwenye masuala haya. Jambo muhimu zaidi ni kuwa na utayari wa kuitazamo pamoja mtazamo chanya.",
+  "intro": "Tafadhali weka pato kwenye boksi linalonesha kwamba unakubaliana ama hukubaliani na kauli zifuatazo. Hakuna majibu sahihi wala yasiyo sahihi. Majibu mazuri ni yale yanayowakilisha maoni yako halisi.",
+  "summarypass" : "Kuna faida na hasara linapokuja suala la shule jumuishi. Si rahisi mara zote kuwa na musimama maridhawa kwenye masuala haya. Jambo muhimu zaidi ni kuwa na utayari wa kuitazamo pamoja mtazamo chanya.",
+  "summaryfail" : "Kuna faida na hasara linapokuja suala la shule jumuishi. Si rahisi mara zote kuwa na musimama maridhawa kwenye masuala haya. Jambo muhimu zaidi ni kuwa na utayari wa kuitazamo pamoja mtazamo chanya.",
   "type" : "quiz",
   "language" : "nn",
   "exam_type" : "quizpoll",
@@ -19,20 +16,14 @@
       "answers": [
         {
           "text": "Nakubali",
-          "correct_feedback": "Mtu anaweza kufikiria kwamba watoto wenye mahitaji maalum wanahudumiwa vizuri katika madarasa maalum, ambapo hupokea mafunzo maalum kulingana na mahitaji yao wenyewe.
-Kwa upande mwingine ni muhimu kwa watoto wenye ulemavu kuunganishwa katika madarasa ya kawaida kwa maisha yao ya kijamii. Pia inaweza kuwa na manufaa kwa watoto wengine kujifunza kukubali na kuvumiliana kwa wanadamu wote.
-Kwa maneno mengine, wakati watoto wameunganishwa katika madarasa ya kawaida wanapata marafiki na maisha ya kijamii, ingawa ni vigumu kwao kujifunza wote wanaohitaji kujifunza katika kikundi cha watoto wengi.
-Je! Inawezekanaje kutatua mahitaji haya yote?",
+          "correct_feedback": "Mtu anaweza kufikiria kwamba watoto wenye mahitaji maalum wanahudumiwa vizuri katika madarasa maalum, ambapo hupokea mafunzo maalum kulingana na mahitaji yao wenyewe. Kwa upande mwingine ni muhimu kwa watoto wenye ulemavu kuunganishwa katika madarasa ya kawaida kwa maisha yao ya kijamii. Pia inaweza kuwa na manufaa kwa watoto wengine kujifunza kukubali na kuvumiliana kwa wanadamu wote. Kwa maneno mengine, wakati watoto wameunganishwa katika madarasa ya kawaida wanapata marafiki na maisha ya kijamii, ingawa ni vigumu kwao kujifunza wote wanaohitaji kujifunza katika kikundi cha watoto wengi. Je! Inawezekanaje kutatua mahitaji haya yote?",
           "incorrect_feedback": "",
           "image_url": "",
           "correct" : true
         },
         {
           "text": "Sikubali",
-          "correct_feedback": "Mtu anaweza kufikiria kwamba watoto wenye mahitaji maalum wanahudumiwa vizuri katika madarasa maalum, ambapo hupokea mafunzo maalum kulingana na mahitaji yao wenyewe.
-Kwa upande mwingine ni muhimu kwa watoto wenye ulemavu kuunganishwa katika madarasa ya kawaida kwa maisha yao ya kijamii. <br>Pia inaweza kuwa na manufaa kwa watoto wengine kujifunza kukubali na kuvumiliana kwa wanadamu wote.
-Kwa maneno mengine, wakati watoto wameunganishwa katika madarasa ya kawaida wanapata marafiki na maisha ya kijamii, ingawa ni vigumu kwao kujifunza wote wanaohitaji kujifunza katika kikundi cha watoto wengi.
-Je! Inawezekanaje kutatua mahitaji haya yote?",
+          "correct_feedback": "Mtu anaweza kufikiria kwamba watoto wenye mahitaji maalum wanahudumiwa vizuri katika madarasa maalum, ambapo hupokea mafunzo maalum kulingana na mahitaji yao wenyewe. Kwa upande mwingine ni muhimu kwa watoto wenye ulemavu kuunganishwa katika madarasa ya kawaida kwa maisha yao ya kijamii. <br>Pia inaweza kuwa na manufaa kwa watoto wengine kujifunza kukubali na kuvumiliana kwa wanadamu wote. Kwa maneno mengine, wakati watoto wameunganishwa katika madarasa ya kawaida wanapata marafiki na maisha ya kijamii, ingawa ni vigumu kwao kujifunza wote wanaohitaji kujifunza katika kikundi cha watoto wengi. Je! Inawezekanaje kutatua mahitaji haya yote?",
           "incorrect_feedback": "",
           "image_url": "",
           "correct" : true
@@ -41,26 +32,19 @@ Je! Inawezekanaje kutatua mahitaji haya yote?",
     },
     {
       "type": "radio",
-      "text": "Tabia ya wanafunzi wenye ulemavu darasani kwa kawaida huitaji ulemavu zaidi kutoka kwa mwalimu kuliko tabra
-      yamwanafunzi asiye na ulemavu.",
+      "text": "Tabia ya wanafunzi wenye ulemavu darasani kwa kawaida huitaji ulemavu zaidi kutoka kwa mwalimu kuliko tabra yamwanafunzi asiye na ulemavu.",
       "image_url": "",
       "answers": [
         {
           "text": "Nakubali",
-          "correct_feedback": "Katika darasalililo na wanafunzi wengi, daima kuna mahitaji kadhaa ya kuzingatia wakati wote. Watoto wote
-          ni tofauti na wote wanahitaji uvumilivu kutoka kwa mwalimu. Lakini bila shaka ikiwa una mtoto mwenye ulemavu ambaye anahitaji usikivu  zaidi
-          kutoka kwa mwalimu kuliko watoto wengine, inaweza kuwa ni changamoto. Je  watoto wenye ulemavu daima wana tabia tofauti kuliko  wengine? <br>
-          Na je tabia hii ni  mbaya kuliko nyingine? Na je haiwezekani tabia kutoka kwa watoto wenye ulemavu kuathiri darasa kama ilivyo ya mtoto mwingine yeyote?",
+          "correct_feedback": "Katika darasalililo na wanafunzi wengi, daima kuna mahitaji kadhaa ya kuzingatia wakati wote. Watoto wote ni tofauti na wote wanahitaji uvumilivu kutoka kwa mwalimu. Lakini bila shaka ikiwa una mtoto mwenye ulemavu ambaye anahitaji usikivu  zaidi kutoka kwa mwalimu kuliko watoto wengine, inaweza kuwa ni changamoto. Je  watoto wenye ulemavu daima wana tabia tofauti kuliko  wengine? <br> Na je tabia hii ni  mbaya kuliko nyingine? Na je haiwezekani tabia kutoka kwa watoto wenye ulemavu kuathiri darasa kama ilivyo ya mtoto mwingine yeyote?",
           "incorrect_feedback": "",
           "image_url": "",
           "correct" : true
         },
         {
           "text": "Sikubali",
-          "correct_feedback": "Katika darasalililo na wanafunzi wengi, daima kuna mahitaji kadhaa ya kuzingatia wakati wote. Watoto wote
-          ni tofauti na wote wanahitaji uvumilivu kutoka kwa mwalimu. Lakini bila shaka ikiwa una mtoto mwenye ulemavu ambaye anahitaji usikivu  zaidi
-          kutoka kwa mwalimu kuliko watoto wengine, inaweza kuwa ni changamoto. Je  watoto wenye ulemavu daima wana tabia tofauti kuliko  wengine? <br>
-          Na je tabia hii ni  mbaya kuliko nyingine? Na je haiwezekani tabia kutoka kwa watoto wenye ulemavu kuathiri darasa kama ilivyo ya mtoto mwingine yeyote?",
+          "correct_feedback": "Katika darasalililo na wanafunzi wengi, daima kuna mahitaji kadhaa ya kuzingatia wakati wote. Watoto wote ni tofauti na wote wanahitaji uvumilivu kutoka kwa mwalimu. Lakini bila shaka ikiwa una mtoto mwenye ulemavu ambaye anahitaji usikivu  zaidi kutoka kwa mwalimu kuliko watoto wengine, inaweza kuwa ni changamoto. Je  watoto wenye ulemavu daima wana tabia tofauti kuliko  wengine? <br> Na je tabia hii ni  mbaya kuliko nyingine? Na je haiwezekani tabia kutoka kwa watoto wenye ulemavu kuathiri darasa kama ilivyo ya mtoto mwingine yeyote?",
           "incorrect_feedback": "",
           "image_url": "",
           "correct" : true
@@ -74,9 +58,7 @@ Je! Inawezekanaje kutatua mahitaji haya yote?",
       "answers": [
         {
           "text": "Nakubali",
-          "correct_feedback": "Bila shaka inaweza kuwa na athari kwa wanafunzi wengine ikiwa mtoto mmoja anahitaji usikivu wa mwalimu
-          wakati wote. Lakini ni lazima iwe kama hiyo?
-          Je! Kuna njia za kutatua suala hili ili lisiwe la athari, lakini labda la faida?",
+          "correct_feedback": "Bila shaka inaweza kuwa na athari kwa wanafunzi wengine ikiwa mtoto mmoja anahitaji usikivu wa mwalimu wakati wote. Lakini ni lazima iwe kama hiyo? Je! Kuna njia za kutatua suala hili ili lisiwe la athari, lakini labda la faida?",
           "incorrect_feedback": "",
           "image_url": "",
           "correct" : true
@@ -94,26 +76,19 @@ Je! Inawezekanaje kutatua mahitaji haya yote?",
     },
     {
       "type": "radio",
-      "text": "Ujumuishi hutoa fursa ya maswasiliano kwa makundi mchanganyiko jambo ambaho litasaidia kufuhamu na
-      kukabali tofauti baina ya wanafunzi.",
+      "text": "Ujumuishi hutoa fursa ya maswasiliano kwa makundi mchanganyiko jambo ambaho litasaidia kufuhamu na kukabali tofauti baina ya wanafunzi.",
       "image_url": "",
       "answers": [
         {
           "text": "Nakubali",
-          "correct_feedback": "Ujumishi unaweza kukuza uelewa na kukubalika. Lakini je, daima hufanya kazi kwa njia hiyo?  Na je Ikiwa
-          mtazamo wa kundi kuelekea watoto wenye ulemavu ni mbaya sana? Je, unadhani mtoto aliye na ulemavu akiwekwa katika darasa anaweza
-          kubadilisha hili? Moja ya mambo muhimu zaidi kwa watu wenye ulemavu ni mtazamo wa watu wanaowazunguka. Msimamo haubadlikii tu
-           kwa sababu unajumuisha mtoto mwenye ulemavu katika darasa. Je,unafikiri ni nini cha muhimu kubadili mtazamo wa watu? ",
+          "correct_feedback": "Ujumishi unaweza kukuza uelewa na kukubalika. Lakini je, daima hufanya kazi kwa njia hiyo?  Na je Ikiwa mtazamo wa kundi kuelekea watoto wenye ulemavu ni mbaya sana? Je, unadhani mtoto aliye na ulemavu akiwekwa katika darasa anaweza kubadilisha hili? Moja ya mambo muhimu zaidi kwa watu wenye ulemavu ni mtazamo wa watu wanaowazunguka. Msimamo haubadlikii tu kwa sababu unajumuisha mtoto mwenye ulemavu katika darasa. Je,unafikiri ni nini cha muhimu kubadili mtazamo wa watu? ",
           "incorrect_feedback": "",
           "image_url": "",
           "correct" : true
         },
         {
           "text": "Sikubali",
-          "correct_feedback": "Ujumishi unaweza kukuza uelewa na kukubalika. Lakini je, daima hufanya kazi kwa njia hiyo?  Na je Ikiwa
-          mtazamo wa kundi kuelekea watoto wenye ulemavu ni mbaya sana? Je, unadhani mtoto aliye na ulemavu akiwekwa katika darasa anaweza
-          kubadilisha hili? Moja ya mambo muhimu zaidi kwa watu wenye ulemavu ni mtazamo wa watu wanaowazunguka. Msimamo haubadlikii tu
-           kwa sababu unajumuisha mtoto mwenye ulemavu katika darasa. Je,unafikiri ni nini cha muhimu kubadili mtazamo wa watu? ",
+          "correct_feedback": "Ujumishi unaweza kukuza uelewa na kukubalika. Lakini je, daima hufanya kazi kwa njia hiyo?  Na je Ikiwa mtazamo wa kundi kuelekea watoto wenye ulemavu ni mbaya sana? Je, unadhani mtoto aliye na ulemavu akiwekwa katika darasa anaweza kubadilisha hili? Moja ya mambo muhimu zaidi kwa watu wenye ulemavu ni mtazamo wa watu wanaowazunguka. Msimamo haubadlikii tu kwa sababu unajumuisha mtoto mwenye ulemavu katika darasa. Je,unafikiri ni nini cha muhimu kubadili mtazamo wa watu? ",
           "incorrect_feedback": "",
           "image_url": "",
           "correct" : true
@@ -127,20 +102,14 @@ Je! Inawezekanaje kutatua mahitaji haya yote?",
       "answers": [
         {
           "text": "Nakubali",
-          "correct_feedback": "Kutengwa kwa darasa maalum kwa watoto wenye ulemavu inaweza kuwa na manufaa kwa watoto wengine. Lakini
-          kunatokea nini kwa mtoto huyu wakati anapaswa kuanza darasa la kawaida au kushirikiana na wengine nje ya darasa maalum? Je!
-           Watoto waliowekwa katika madarasa maalum wako tayari
-          kukabili maisha ya kijamii nje ya darasa hili maalum? Je! Jamii iko tayari kuwapokea watoto hawa ikiwa hawakujuishwa kutoka mwanzo ?",
+          "correct_feedback": "Kutengwa kwa darasa maalum kwa watoto wenye ulemavu inaweza kuwa na manufaa kwa watoto wengine. Lakini kunatokea nini kwa mtoto huyu wakati anapaswa kuanza darasa la kawaida au kushirikiana na wengine nje ya darasa maalum? Je! Watoto waliowekwa katika madarasa maalum wako tayari kukabili maisha ya kijamii nje ya darasa hili maalum? Je! Jamii iko tayari kuwapokea watoto hawa ikiwa hawakujuishwa kutoka mwanzo ?",
           "incorrect_feedback": "",
           "image_url": "",
           "correct" : true
         },
         {
           "text": "Sikubali",
-          "correct_feedback": "Kutengwa kwa darasa maalum kwa watoto wenye ulemavu inaweza kuwa na manufaa kwa watoto wengine. Lakini
-          kunatokea nini kwa mtoto huyu wakati anapaswa kuanza darasa la kawaida au kushirikiana na wengine nje ya darasa maalum? Je!
-           Watoto waliowekwa katika madarasa maalum wako tayari
-          kukabili maisha ya kijamii nje ya darasa hili maalum? Je! Jamii iko tayari kuwapokea watoto hawa ikiwa hawakujuishwa kutoka mwanzo ?",
+          "correct_feedback": "Kutengwa kwa darasa maalum kwa watoto wenye ulemavu inaweza kuwa na manufaa kwa watoto wengine. Lakini kunatokea nini kwa mtoto huyu wakati anapaswa kuanza darasa la kawaida au kushirikiana na wengine nje ya darasa maalum? Je! Watoto waliowekwa katika madarasa maalum wako tayari kukabili maisha ya kijamii nje ya darasa hili maalum? Je! Jamii iko tayari kuwapokea watoto hawa ikiwa hawakujuishwa kutoka mwanzo ?",
           "incorrect_feedback": "",
           "image_url": "",
           "correct" : true
