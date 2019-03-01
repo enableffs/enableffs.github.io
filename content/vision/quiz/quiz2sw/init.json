@@ -1,0 +1,99 @@
+{
+  "title": "Je unaweza kusoma?",
+  "intro": "Jaribu kusoma nakala kwa kutumia yale uliojifunza kwa njia ya Breli",
+  "summarypass": "Kazi nzuri!",
+  "summaryfail": "Jaribu tena.",
+  "type": "quiz",
+  "language": "nn",
+  "exam_type": "quizpoll",
+  "module_description": "",
+  "ref": "",
+  "questions": [
+    {
+      "type": "radio",
+      "text": "Je linasema nini?",
+      "image_url": "quiz2img1.jpg",
+      "answers": [
+        {
+          "text": "Breli ni mfumo wa nuktanundu",
+          "correct_feedback": "Sahihi",
+          "incorrect_feedback": "",
+          "image_url": "",
+          "correct": true
+        },
+        {
+          "text": "Breli inaweza kusomwa kwa vidole. ",
+          "correct_feedback": "",
+          "incorrect_feedback": "Wrong. The answer is: Breli ni mfumo wa nuktanundu",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": "Breli inatumiwa na maelfu ya watu.",
+          "correct_feedback": "",
+          "incorrect_feedback": "kosa. Jibu ni: Breli ni mfumo wa nuktanundu",
+          "image_url": "",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "type": "radio",
+      "text": "Je linasema nini?",
+      "image_url": "quiz2img2.jpg",
+      "answers": [
+        {
+          "text": "Louis Braille alipata upofu akiwa mtoto.",
+          "correct_feedback": "",
+          "incorrect_feedback": "kosa. Jibu ni: Louis Braille alivumbua Breli.",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": "Louis Braille alivumbua Breli.",
+          "correct_feedback": "Sahihi",
+          "incorrect_feedback": "",
+          "image_url": "",
+          "correct": true
+        },
+        {
+          "text": "Louis Braille alizaliwa mwaka 1809.",
+          "correct_feedback": "",
+          "incorrect_feedback": "kosa. Jibu ni: Louis Braille alivumbua Breli.",
+          "image_url": "",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "type": "radio",
+      "text": "Je linasema nini?",
+      "image_url": "quiz2img3.jpg",
+      "answers": [
+        {
+          "text": "Seli kamili ya Breli inaundwa na nukta nundu safu mbili mlalo zilizo sambambo",
+          "correct_feedback": "",
+          "incorrect_feedback": "kosa. Jibu ni: Seli kamili ya Breli inaundwa na nukta nundu sita.",
+          "image_url": "",
+          "correct": false
+        },
+        {
+          "text": "Seli kamili ya Breli inaundwa na nukta nundu sita.",
+          "correct_feedback": "Sahihi",
+          "incorrect_feedback": "",
+          "image_url": "",
+          "correct": true
+        },
+        {
+          "text": "Seli kamili ya Breli inaundwa na nukta sita.",
+          "correct_feedback": "",
+          "incorrect_feedback": "kosa. Jibu ni: Seli kamili ya Breli inaundwa na nukta nundu sita.",
+          "image_url": "",
+          "correct": false
+        }
+      ]
+    }
+
+
+  ]
+}
