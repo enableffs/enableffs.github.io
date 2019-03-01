@@ -30,7 +30,7 @@
     </div>
 
     <div ng-show="state=='question' || state == 'result'">
-        <p style="margin: 15px 0 0;">{{state == "result" ? 'RESULT' : 'QUESTION'}} <strong>{{pageIndex+1}}</strong> / <strong>{{totalPages}}</strong></p>
+        <p style="margin: 15px 0 0;">{{state == "result" ? 'QUIZ_RESULT' | translate : 'QUIZ_QUESTION' | translate}} <strong>{{pageIndex+1}}</strong> / <strong>{{totalPages}}</strong></p>
 
         <h4 ng-bind-html="trustResource(currentQuestion.text)"></h4>
         <img style="width:90%; height: auto; margin: 10px 0 10px;" ng-show="image_url" ng-src="{{image_url}}"/>
