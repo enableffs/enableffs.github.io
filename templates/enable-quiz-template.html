@@ -29,8 +29,9 @@
         </div>
     </div>
 
-    <div ng-show="state=='question' || state == 'result'">
-        <p style="margin: 15px 0 0;">{{state == "result" ? 'QUIZ_RESULT' | translate : 'QUIZ_QUESTION' | translate}} <strong>{{pageIndex+1}}</strong> / <strong>{{totalPages}}</strong></p>
+    <div ng-show="state=='question' || state == 'result' ">
+
+        <p style="margin: 15px 0 0;">{{state == 'result' ? 'QUIZ_RESULT' : 'QUIZ_QUESTION' | translate}} <strong>{{pageIndex+1}}</strong> / <strong>{{totalPages}}</strong></p>
 
         <h4 ng-bind-html="trustResource(currentQuestion.text)"></h4>
         <img style="width:90%; height: auto; margin: 10px 0 10px;" ng-show="image_url" ng-src="{{image_url}}"/>
@@ -64,14 +65,14 @@
             <p ng-show="percentScore < passPercent" ng-bind-html="trustResource(summaryfail)"></p>
             <div ng-show="(incorrectAnswers.length > 0)">
                 <br>
-                <h5>{{percentScore >= passPercent ? 'INCORRECT_ANSWERS_PASSED' : 'INCORRECT_ANSWERS_FAILED'| translate}}:</h5>
+                <h5>{{percentScore >= passPercent ? 'CORRECT_ANSWERS_PASSED' : 'INCORRECT_ANSWERS_FAILED' | translate}}:</h5>
                 <ul>
                     <li ng-repeat="i in incorrectAnswers">{{i}}</li>
                 </ul>
             </div>
         </div>
         <div>
-            <button ng-show="(percentScore < passPercent)" ng-click="start()" class="md-raised md-primary md-cornered hmsbtn">{{ 'QUIZ_TRYAGAIN_BUTTON' | translate }}</button>
+            <button ng-show="(percentScore < passPercent)" ng-click="start()"  class="quizButton">{{ 'QUIZ_TRYAGAIN_BUTTON' | translate }}</button>
         </div>
     </div>
 

@@ -5,7 +5,6 @@
   "TITLE_VISION": "Visual Impairment Menu",
   "TITLE_DUAL": "Dual Sensory Impairments Menu",
   "TITLE_SENSORY": "Sensory Impairment Menu",
-  "LANGUAGE_BUTTON_FR": "Traduire le site en francais",
   "HOME_BUTTON": "Click to go to site home page",
   "FONT_SIZE_BUTTON": "Click to adjust font size",
   "CLOSE_SIDEPANEL_BUTTON": "Close sidemenu panel",
@@ -99,6 +98,7 @@
   "QUIZ_TRYAGAIN_BUTTON": "TRY AGAIN!",
   "QUIZ_RESULT": "RESULT!",
   "QUIZ_QUESTION": "QUESTION!",
-  "INCORRECT_ANSWERS_FAILED": "You have failed"
+  "INCORRECT_ANSWERS_FAILED": "You have failed",
+  "CORRECT_ANSWERS_PASSED": "You have passed"
 
 }
