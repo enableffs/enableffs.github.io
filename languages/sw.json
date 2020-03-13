@@ -1,6 +1,5 @@
 {
   "LANGUAGE_BUTTON_EN": "Badilisha lugha kuwa Kiingereza",
-  "LANGUAGE_BUTTON_FR": "Badilisha lugha kuwa Kifaransa",
   "LANGUAGE_BUTTON_SW": "Badilisha lugha kuwa Kiswahili",
   "TITLE_HEARING": "Menyu ya usikivu",
   "TITLE_VISION": "Menyu ya uoni",
@@ -97,6 +96,7 @@
   "QUIZ_RESULT": "JIBU!",
   "QUIZ_QUESTION": "SWALI!",
   "QUIZ_TRYAGAIN_BUTTON": "JARIBU TENA!",
-  "INCORRECT_ANSWERS_FAILED": "Umekosa"
+  "INCORRECT_ANSWERS_FAILED": "Umekosa",
+  "CORRECT_ANSWERS_PASSED": "Kosa"
 
 }
